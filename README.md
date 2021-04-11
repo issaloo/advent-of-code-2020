@@ -9,7 +9,7 @@ Not all solutions are available and new solutions may be added infrequently, as 
 
 ## Running locally
 
-Here's the rundown of the solution environment.
+### Here's the rundown of the solution environment.
 
 **Programming Language:** Python
 
@@ -17,8 +17,8 @@ Here's the rundown of the solution environment.
 
 **IDE:** Jupyter Notebooks
 
-<br>
-Here's the rundown of the directory.
+
+### Here's the rundown of the directory.
 
 **Folder:** DayX
 
